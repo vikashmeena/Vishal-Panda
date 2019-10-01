@@ -14,7 +14,7 @@
         android:textSize="22sp"
         android:layout_marginLeft="0sp"
         android:background="#fff000"
-        android:padding="32dp" />
+        android:padding="22dp" />
 
     <Button
         android:layout_width="200dp"
