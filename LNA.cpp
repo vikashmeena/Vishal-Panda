@@ -17,7 +17,7 @@ int main()
 		cin>>amount[i];
 	}
 	biggest=large(amount,p);
-	cout<<"The Largest Element in Given Array is : "<<biggest<<"\n";
+	cout<<"This is : "<<biggest<<"\n";
 	return 0;
 }
 float large(float arr[],int n)
