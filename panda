@@ -17,8 +17,8 @@
         android:padding="22dp" />
 
     <Button
-        android:layout_width="200dp"
-        android:layout_height="70dp"
+        android:layout_width="201dp"
+        android:layout_height="71dp"
         android:text="Click Here"
         android:layout_gravity="center_horizontal"
         android:alpha="0.6"
