@@ -7,8 +7,8 @@ int main()
 	float large(float arr[],int n);
 	char ch;
 	int i=0;
-	float amount[50],biggest;
-	cout<<"Enter the number of element (max 50)\n";
+	float amount[150],biggest;
+	cout<<"Enter the number of element (max 150)\n";
 	int p;
 	cin>>p;
 	for(i=0;i<p;i++)
